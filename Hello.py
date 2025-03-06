@@ -1,3 +1,5 @@
+# Learn Python Coding in 2025
+# John Elder
 # Clear the terminal screen
 import os
 os.system('clear')
